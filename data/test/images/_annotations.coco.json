@@ -1,0 +1,55 @@
+{
+    "info": {
+        "year": "2022",
+        "version": "1",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://public.roboflow.ai/object-detection/undefined",
+        "date_created": "2022-06-24T07:41:44+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "name": "CC BY 4.0"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Object-Detection",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "Cigarette",
+            "supercategory": "Object-Detection"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "cigarret_jpg.rf.727af4957c8a954d3a692c77da2aae62.jpg",
+            "height": 256,
+            "width": 256,
+            "date_captured": "2022-06-24T07:41:44+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                116,
+                126,
+                100.5,
+                28.5
+            ],
+            "area": 2864.25,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
